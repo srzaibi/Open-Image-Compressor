@@ -1,4 +1,4 @@
-```markdown
+
 # OPEN IMAGE COMPRESSOR
 
 **A fast, multi-core Image Compressor with a clean and user-friendly GUI**
