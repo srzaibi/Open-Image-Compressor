@@ -7,6 +7,7 @@ Developed by **Shahzaib Rasool** from Pakistan
 📧 Email: srzaibi@gmail.com
 
 ---
+<img width="786" height="714" alt="Screenshot" src="https://github.com/user-attachments/assets/de326036-f066-4be5-89de-64c0b93d9e53" />
 
 ## ✨ Features
 
